@@ -17,4 +17,4 @@ int main()
 - [homework1](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework1.cpp)
 - [homework2](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework2.cpp)
 ### **附帅图一张**
-- [q](https://github.com/littleFlyDog/home-work/blob/main/pictures/Barcelona.jpg)
+- ![](https://github.com/littleFlyDog/home-work/blob/main/pictures/Barcelona.jpg)
