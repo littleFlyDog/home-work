@@ -1,7 +1,7 @@
 # **Home Work**
 ## **记录我的C++作业**
 ###  
-cout<<"Hello World!"
+- cout<<"Hello World!"
 '''
 int day=0;
 cin>>day;
