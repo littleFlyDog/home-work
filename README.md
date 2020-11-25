@@ -14,5 +14,5 @@ int main()
 }
 ```
 ### **作业列表**
-* [homework1](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework1.cpp)
+- [homework1](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework1.cpp)
 - [homework2](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework2.cpp)
