@@ -14,7 +14,8 @@ int main()
 }
 ```
 ### **作业列表**
-- [homework1](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework1.cpp)
+- [homework1](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework1.cpp)简单乘除法
 - [homework2](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework2.cpp)
+- [homework3](https://github.com/littleFlyDog/home-work/tree/main/homeworkfile/playthecoin)猜硬币游戏（第一次模块化设计）
 ### **附帅图一张**
 ![](https://github.com/littleFlyDog/home-work/blob/main/pictures/Barcelona.jpg)
