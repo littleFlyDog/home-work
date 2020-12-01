@@ -18,6 +18,7 @@ int main()
 1. [简单乘除法](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework1.cpp)
 2. [求三位数的个十百位](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework2.cpp)
 3. [猜硬币游戏](https://github.com/littleFlyDog/home-work/tree/main/homeworkfile/playthecoin)第一次模块化编程
+3. [敏感词过滤](./homeworkfile/敏感词过滤)
 
 
 ![](https://github.com/littleFlyDog/home-work/blob/main/pictures/Barcelona.jpg)
