@@ -31,29 +31,31 @@ int main()
     cin >> n;//这里有一个回车，故下一句lines[0]直接遇到回车结束，这里的回车会被回收消耗
     for (int i = 0; i < n; ++i) cin.getline(lines[i], 80);
     cout << lines[0] << endl << lines[1];*/
-
+    //char s[50];
     /*读入字符串
     一、遇到EOF结束
     1.依次读入一个字符
    （1）while(cin.get(char))
    （2）whlie(char=cin.get()!=EOF)
     两者均会读入空白字符（包括回车）且不停止，除非出现文本的EOF
-    2.读入一行字符串
-    int len=0;
-    （1）while(cin.get(s[len++]))
-     (2)while(s[len++]=cin.get!=EOF)
+    2.读入一行字符串*/
+    //int len=0;
+    //（1）
+    //while (cin.get(s[len++]) && s[len] != '\n');
+
+     /*(2)while(s[len++]=cin.get()!=EOF)
      两者均会读入空白字符（包括回车）且不停止，除非出现文本的EOF
      二、遇回车或遇EOF结束
-     1.cin.getline(s,80)
-     2.while(cin.get(s[len])&&s[len]!='\n');
+     1.cin.getline(s,80)//且会消耗回车
+     2.while(cin.get(s[len])&&s[len]!='\n');//第一个是指EOF第二个是指回车
      len++;
      */
      //char a[80]{}; int len = 0;
-     //while (a[len]=cin.get() && a[len] != '\n')
+     //while (（a[len]=cin.get() )&&( a[len] != '\n'))
      //while(cin.get(a[len])&&a[len]!='\n')
         // ++len;
      //for (len = 0; len < 15; ++len)
         // cout << a[len] ;
-return 0；
+    return 0;
 
 }
