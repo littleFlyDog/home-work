@@ -54,6 +54,6 @@ int main()
         // ++len;
      //for (len = 0; len < 15; ++len)
         // cout << a[len] ;
-
+return 0；
 
 }
