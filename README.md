@@ -20,8 +20,8 @@ int main()
 3. [猜硬币游戏](https://github.com/littleFlyDog/home-work/tree/main/homeworkfile/playthecoin)第一次模块化编程
 3. [敏感词过滤](./homeworkfile/敏感词过滤)
 
-##**问题总结整理Summary**
-1. [字符及字符串的输入]
+## **问题总结整理Summary**
+1. [字符及字符串的输入](./Summary/charSummary)
 
 
 ![](https://github.com/littleFlyDog/home-work/blob/main/pictures/Barcelona.jpg)
