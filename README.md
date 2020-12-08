@@ -21,7 +21,7 @@ int main()
 3. [敏感词过滤](./homeworkfile/敏感词过滤)
 
 ## **问题总结整理Summary**
-1. [字符及字符串的输入](./Summary/charSummary.cpp)
+1. [字符及字符串的输入](./summary/charSummary.cpp)
 
 
 ![](https://github.com/littleFlyDog/home-work/blob/main/pictures/Barcelona.jpg)
