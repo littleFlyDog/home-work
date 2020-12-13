@@ -22,7 +22,7 @@ int main()
 5. [股票分析系统](./homeworkfile/股票分析系统)
 
 ## **问题总结整理Summary**
-1. [字符及字符串的输入](./summary)
+1. [字符及字符串的输入](./summary/charSummary.cpp)
 
 
 ![](https://github.com/littleFlyDog/home-work/blob/main/pictures/Barcelona.jpg)
