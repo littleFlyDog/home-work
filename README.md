@@ -19,7 +19,7 @@ int main()
 2. [求三位数的个十百位](https://github.com/littleFlyDog/home-work/blob/main/homeworkfile/homework2.cpp)
 3. [猜硬币游戏](https://github.com/littleFlyDog/home-work/tree/main/homeworkfile/playthecoin)第一次模块化编程
 4. [敏感词过滤](./homeworkfile/敏感词过滤)
-5. [股票分析系统]（./homeworkfile/stockSystems.cpp）
+5. [股票分析系统](./homeworkfile/stockSystems.cpp)
 
 ## **问题总结整理Summary**
 1. [字符及字符串的输入](./summary/charSummary.cpp)
